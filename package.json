@@ -1,0 +1,23 @@
+{
+  "name": "todomvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriGoess/TODOMVC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriGoess/TODOMVC/issues"
+  },
+  "homepage": "https://github.com/YuriGoess/TODOMVC#readme",
+  "dependencies": {
+    "cypress": "^15.3.0"
+  }
+}
